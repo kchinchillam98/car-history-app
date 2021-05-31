@@ -1,0 +1,8 @@
+{
+  "name": "CarHistoryApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "edd1932d"
+}
